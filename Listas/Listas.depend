@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1472706934 source:c:\users\chuy\documents\itesm\estructura\listas\main.cpp
+	<iostream>
+	"Lista.h"
+
+1472707184 c:\users\chuy\documents\itesm\estructura\listas\lista.h
+	<iostream>
+	<string>
+
